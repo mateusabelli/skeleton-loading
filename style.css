@@ -53,7 +53,7 @@
   flex-shrink: 0;
 }
 
-.name {
+.title {
   font-weight: bold;
   font-size: 1.25rem;
   text-transform: capitalize;
